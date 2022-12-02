@@ -26,8 +26,8 @@ JavaScript for this application was written in VS Code and pushed into GitHub.
 ### `Context:`
 This was our first solo Project assigned in Mod 2 of Turing's Front-End Program and it's primary objective was implementing a robust testing suite and ES6 class methods.
 
-### `Wins`
+### `Wins:`
 I learned a lot about Mocha and Chai's role in writing JavaScript that is resilient to changes and how to write good tests in proper syntax. I am excited that I was able to successfully impliment a timer extension!
 
-### `Future Additions`
+### `Future Additions:`
 Obviously, this app is not user friendly, not even to a coder so I would liek to improve the UI. Creating a web application with HTML and CSS would make this game much more enjoyable for the user. I think the ability to add new trivia questions in would be great as well.
