@@ -1,10 +1,10 @@
 # FlashCards by Rick Vermeil
 
 ### `Abstract:`
-This is a trivia game for coders interested in JavaScript where a user interacts with in the game in the terminal, picking a guess from three multiple choices to each of 30 different questions. The user is provided feedback on whether their answer was correct or not after each question and, once the game concludes, the user is provided with the percentage of questions they answered correctly.
+This is a trivia game for coders interested in JavaScript where a user interacts with in the game in the terminal, picking a guess from three multiple choices to each of 30 different questions. The user is provided feedback on whether their answer was correct or not after each question and, once the game concludes, the user is provided with the percentage of questions they answered correctly as well as the time it took them to complete the round.
 
 ### `Preview of App:`
- @@@@@@@@@@@-----------------------LINK TO GIF HERE --------------------------------@@@@@@@@@@@@@
+[Click to open a GIF of the app](https://media.giphy.com/media/BKBqRp0Yh0HFwVsdr1/giphy.gif)
 
 ### `Technology Used:`
 JavaScript for this application was written in VS Code and pushed into GitHub. 
@@ -27,7 +27,7 @@ JavaScript for this application was written in VS Code and pushed into GitHub.
 This was our first solo Project assigned in Mod 2 of Turing's Front-End Program and it's primary objective was implementing a robust testing suite and ES6 class methods.
 
 ### `Wins`
-I learned a lot about Mocha and Chai's role in writing JavaScript that is resilient to changes and how to write good tests in proper syntax. Up until now, we have not written any tests to validate our code, but have worked with many test files.
+I learned a lot about Mocha and Chai's role in writing JavaScript that is resilient to changes and how to write good tests in proper syntax. I am excited that I was able to successfully impliment a timer extension!
 
 ### `Future Additions`
 Obviously, this app is not user friendly, not even to a coder so I would liek to improve the UI. Creating a web application with HTML and CSS would make this game much more enjoyable for the user. I think the ability to add new trivia questions in would be great as well.
